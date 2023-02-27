@@ -3,7 +3,7 @@
 
 This is a compiler, written in C++ for a simplified programming language written by the professor. 
 
-The stack class is from the textbook Data Abstraction & Problem Solving with C++: Walls and Mirrors by Frank Carrano and Timothy Henry. I had two other teamates on this project, Edgardo Arteaga and Dulcie Hang. However, all of the code seen here is mine (besides the aformentioned stack class). 
+The stack class is from the textbook Data Abstraction & Problem Solving with C++: Walls and Mirrors by Frank Carrano and Timothy Henry. I had two other teamates on this project, Edgardo Arteaga and Dulcie Hang. However, all of the code seen here is mine (besides the aformentioned stack class). My teammates helped me create the FIRST and FOLLOW sets as well as the parsing table.
 
 The context free grammar of the language is defined in the "grammar.pdf" file. A sample input is also given in "finalp1.txt." 
 
