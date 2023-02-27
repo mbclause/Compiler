@@ -1,7 +1,9 @@
 # CPSC 323 Final Project - Compiler Using Predictive Parsing
 
 
-This is a compiler for a simplified programming language written by the professor. The stack class is from the textbook Data Abstraction & Problem Solving with C++: Walls and Mirrors by Frank Carrano and Timothy Henry. I had two other teamates on this project, Edgardo Arteaga and Dulcie Hang. However, all of the code seen here is mine (besides the aformentioned stack class). 
+This is a compiler, written in C++ for a simplified programming language written by the professor. 
+
+The stack class is from the textbook Data Abstraction & Problem Solving with C++: Walls and Mirrors by Frank Carrano and Timothy Henry. I had two other teamates on this project, Edgardo Arteaga and Dulcie Hang. However, all of the code seen here is mine (besides the aformentioned stack class). 
 
 The grammar of the language is defined in the "grammar.pdf" file. A sample input is also given in "finalp1.txt." 
 
