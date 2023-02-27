@@ -1,5 +1,5 @@
-#H1 CPSC 323 Final Project - Compiler Using Predictive Parsing
-#H2 By Edgardo Arteag, Michael Clausen, and Dulcie Hang
+# H1 CPSC 323 Final Project - Compiler Using Predictive Parsing
+# H2 By Edgardo Arteag, Michael Clausen, and Dulcie Hang
 
 
 Purpose: This program takes as input a file written in a simple programming language. The program has three parts.
