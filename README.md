@@ -5,7 +5,7 @@ This is a compiler for a simplified programming language written by the professo
 
 The grammar of the language is defined in the "grammar.pdf" file. A sample input is also given in "finalp1.txt." 
 
-The program has three parts.
+The program has three parts:
 
 1. In part one, the program removes comments and blank lines. It also trims white space so that there is one space after
 every token.
