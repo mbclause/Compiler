@@ -2,7 +2,7 @@
 ## By Edgardo Arteag, Michael Clausen, and Dulcie Hang
 
 
-Purpose: This program takes as input a file written in a simple programming language. The program has three parts.
+This program takes as input a file written in a simple programming language. The program has three parts.
 1. In part one, the program removes comments and blank lines. It also trims white space so that there is one space after
 every token.
 2. In part two, the program traces through the cleaned up input file and determines if it is accepted or rejected
