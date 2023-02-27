@@ -8,7 +8,7 @@ The grammar of the language is defined in the "grammar.pdf" file. A sample input
 The program has three parts:
 
 1. In part one, the program removes comments and blank lines. It also trims white space so that there is one space after
-every token. The relevant files are "part1.cpp" and "part1.h"
+every token. The relevant files are "part_1.cpp" and "part_1.h"
 
 2. In part two, the program traces through the cleaned up input file and determines if it is accepted or rejected
 by the languages grammar using a predictive parsing table. It displays "PROGRAM IS ACCEPTED" if the input is accepted and "PROGRAM IS REJECTED" if not. If rejected, specific error messages are given. The relevant files are "compiler.cpp" and "compiler.h"
